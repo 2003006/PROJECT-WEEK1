@@ -1,6 +1,6 @@
 # KARAMOJA FOOD INSECURITY.
 ## Assessment.
-### Link to tableau 
+### Link to tableau:
 'https://public.tableau.com/profile/nyachiro.gloria.kerubo#!/vizhome/Project1_16186017108230/Overallanalysispersubcountyofkaramojaonageographicalmap'
 
 ## Overview 
